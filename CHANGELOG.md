@@ -8,6 +8,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- LSP: Support structural search and replace (SSR)
+  just for the selected range.
+
 ### Fixed
 
 - LSP: If inlay hints are enabled for a buffer, force Neovim
